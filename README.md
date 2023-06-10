@@ -23,7 +23,7 @@
 
 ## 截图
 <img width="1004" alt="image" src="https://github.com/kissggj123/YumikoToys-MTMR/assets/8959123/0da8a947-3ca8-4337-a8fd-1cc687788014">
-<img width="1004" alt="image" src="https://github.com/kissggj123/YumikoToys-MTMR/assets/8959123/228610c1-0fc9-4d2c-8141-9c68b461d021">
+<img width="1004" alt="image" src="https://github.com/kissggj123/YumikoToys-MTMR/assets/8959123/20f56966-3701-414e-928c-b5e86fcebefd">
 <img width="1004" alt="image" src="https://github.com/kissggj123/YumikoToys-MTMR/assets/8959123/022be519-6227-4a5f-acb5-a67378dfcb97">
 
 
